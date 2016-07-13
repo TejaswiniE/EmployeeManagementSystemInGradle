@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ems.test.EmployeeManagementSystemTestFilter" tests="6" skipped="0" failures="0" errors="0" timestamp="2016-07-11T06:40:19" hostname="trojan.local" time="0.005">
+  <properties/>
+  <testcase name="testFilterAbletoListElements" classname="com.ems.test.EmployeeManagementSystemTestFilter" time="0.002"/>
+  <testcase name="testFilterIllegalFormat" classname="com.ems.test.EmployeeManagementSystemTestFilter" time="0.0"/>
+  <testcase name="testFilterAfterDeleteAllElements" classname="com.ems.test.EmployeeManagementSystemTestFilter" time="0.001"/>
+  <testcase name="testFilterIllegalFormat1" classname="com.ems.test.EmployeeManagementSystemTestFilter" time="0.0"/>
+  <testcase name="testFilterIllegalFormat2" classname="com.ems.test.EmployeeManagementSystemTestFilter" time="0.0"/>
+  <testcase name="testFilterBeforeHavingNoElements" classname="com.ems.test.EmployeeManagementSystemTestFilter" time="0.0"/>
+  <system-out><![CDATA[1 Teju Chennai 20000.0 25
+]]></system-out>
+  <system-err><![CDATA[java.lang.ArrayIndexOutOfBoundsException: 1Please enter Searchstring acc to format
+java.lang.NumberFormatException: For input string: "er"Please enter arguments correctly in search string
+java.lang.ArrayIndexOutOfBoundsException: 1Please enter Searchstring acc to format
+]]></system-err>
+</testsuite>

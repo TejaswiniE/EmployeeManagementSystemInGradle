@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ems.test.EmployeeManagementSystemTestSort" tests="9" skipped="0" failures="0" errors="0" timestamp="2016-07-11T06:40:19" hostname="trojan.local" time="0.006">
+  <properties/>
+  <testcase name="TestSortByAge" classname="com.ems.test.EmployeeManagementSystemTestSort" time="0.001"/>
+  <testcase name="TestSortByAgeDeletedElements" classname="com.ems.test.EmployeeManagementSystemTestSort" time="0.0"/>
+  <testcase name="TestSortByAgeListEmpty" classname="com.ems.test.EmployeeManagementSystemTestSort" time="0.0"/>
+  <testcase name="TestSortByLocation" classname="com.ems.test.EmployeeManagementSystemTestSort" time="0.001"/>
+  <testcase name="TestSortByLocationDeletedElements" classname="com.ems.test.EmployeeManagementSystemTestSort" time="0.001"/>
+  <testcase name="TestSortByLocationListEmpty" classname="com.ems.test.EmployeeManagementSystemTestSort" time="0.0"/>
+  <testcase name="TestSortByName" classname="com.ems.test.EmployeeManagementSystemTestSort" time="0.001"/>
+  <testcase name="TestSortByNameDeletedElements" classname="com.ems.test.EmployeeManagementSystemTestSort" time="0.0"/>
+  <testcase name="TestSortByNameListEmpty" classname="com.ems.test.EmployeeManagementSystemTestSort" time="0.0"/>
+  <system-out><![CDATA[1 Teju Chennai 20000.0 24
+2 Tej Hyd 35000.0 25
+2 Chandu Banglore 35000.0 25
+1 Teju Chennai 20000.0 24
+1 Bhanu Chennai 20000.0 24
+2 Teju Hyd 35000.0 25
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

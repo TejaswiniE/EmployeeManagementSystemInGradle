@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ems.test.EmployeeManagementSystemTestListAll" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-07-11T06:40:19" hostname="trojan.local" time="0.003">
+  <properties/>
+  <testcase name="TestListAllAbletoListElements" classname="com.ems.test.EmployeeManagementSystemTestListAll" time="0.001"/>
+  <testcase name="TestListAllAfterDeleteAllElements" classname="com.ems.test.EmployeeManagementSystemTestListAll" time="0.001"/>
+  <testcase name="TestListAllBeforeHavingNoElements" classname="com.ems.test.EmployeeManagementSystemTestListAll" time="0.0"/>
+  <system-out><![CDATA[1 Teju Chennai 20000.0 24
+2 Tej Hyd 35000.0 25
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

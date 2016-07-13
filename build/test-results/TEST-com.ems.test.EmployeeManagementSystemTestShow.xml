@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ems.test.EmployeeManagementSystemTestShow" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-07-11T06:40:19" hostname="trojan.local" time="0.001">
+  <properties/>
+  <testcase name="TestShowAbletoShowElementInList" classname="com.ems.test.EmployeeManagementSystemTestShow" time="0.0"/>
+  <testcase name="TestShowOutOfBoundElement" classname="com.ems.test.EmployeeManagementSystemTestShow" time="0.001"/>
+  <testcase name="TestShowAlreadyDeletedElement" classname="com.ems.test.EmployeeManagementSystemTestShow" time="0.0"/>
+  <system-out><![CDATA[1 Teju Chennai 20000.0 24
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
